@@ -1,10 +1,10 @@
-## CafeChen的博客
+# CafeChen的博客
 
-#### 软件架构
+### 软件架构
 
 * [设计模式](Docs/Pattern/README.md)
 
-用来看一下页面效果
+我们来看一下这段代码
 
 ```java
 public class Hello{
@@ -14,3 +14,6 @@ public class Hello{
 }
 ```
 
+* 
+
+### [回到首页](https://cafechen.github.io)
