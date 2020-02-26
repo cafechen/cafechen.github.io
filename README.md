@@ -1,6 +1,6 @@
 # CafeChen的博客
 
-### 软件架构
+## 软件架构
 
 * [设计模式](Docs/Pattern/README.md)
 
@@ -16,4 +16,4 @@ public class Hello{
 
 * 
 
-### [回到首页](https://cafechen.github.io)
+## [回到首页](https://cafechen.github.io)
